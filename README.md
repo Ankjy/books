@@ -1,1 +1,1 @@
-Books about lot of topics like maths, computer science, etc. 
+Books about various topics like maths, computer science, etc. 
